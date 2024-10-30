@@ -1,0 +1,1 @@
+Ejercicio en el que conectaremos Hadoop con ElasticSearch. En concrecto, haremos una conexión entre Hive y un índice (o index) de ElasticSearch. El archivo únicamente muestra las capturas de pantalla de la configuración de los clústers y MV en Google Cloud
